@@ -5,7 +5,7 @@ function App() {
 
   return (
     <main>
-      <h1>StepIt - cea mai buna scoala!!_</h1>
+      <h1>StepIt - cea mai buna scoala!!</h1>
       <h2>
         Deployed with{' '}
         <a
